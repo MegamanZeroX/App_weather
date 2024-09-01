@@ -1,6 +1,6 @@
 # IOS App Weather
 
-This is a weather application built using Python and Kivy, designed to be packaged into an executable file for Windows and eventually deployed to an iPhone. The app allows users to get weather information for a specified city or for their current location.
+This is a weather application built using Python and Kivy, designed to be packaged into an executable file for Windows. The app allows users to get weather information for a specified city or for their current location.
 
 ## Features
 
